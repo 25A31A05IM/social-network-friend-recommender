@@ -1,6 +1,6 @@
 # 🌐 Social Network Friend Recommendation System
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)](https://social-friend-recommender.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)](https://social-network-friend-recommender.onrender.com/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Framework-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Course](https://img.shields.io/badge/Course-ADSA-orange?style=for-the-badge)](#)
